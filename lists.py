@@ -1,0 +1,1 @@
+names = ["Dariel", "Dandan", "Luffy", "Ace"]
